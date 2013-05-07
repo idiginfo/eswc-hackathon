@@ -121,11 +121,6 @@
 			<h2>Existing Tools to Hack On or Use (if you want)</h2>
 	    <div class="grid_6">		
 
-	<h4>Partridge</h4>
-	<ul>
-             <li>An open-source data extraction tool for PDFs</li>
-             <li><a href='https://github.com/ravenscroftj/partridge' target='_blank'>https://github.com/ravenscroftj/partridge</a></li>
-	</ul>
         <h4>xpdf</h4>
         <ul>
             <li>Open-source PDF viewer</li>
@@ -210,6 +205,12 @@
         <ul>
             <li>Natural Language Toolkit for Python</li>
             <li><a href="http://nltk.org/book/" target="_blank">http://nltk.org/book/</a></li>
+        </ul>
+
+        <h4>Partridge</h4>
+        <ul>
+            <li>Scientific literature retrieval and recommendation tool</li>
+            <li><a href='https://github.com/ravenscroftj/partridge' target='_blank'>https://github.com/ravenscroftj/partridge</a></li>
         </ul>
 
         </div> <div class="grid_6 omega">

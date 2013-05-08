@@ -55,7 +55,11 @@ a:visited {
 }
 .navigation li{
 	float: left;
-	padding:0 0 0 50px;
+	padding:0 0 0 30px;
+}
+#notlist, #notlist li{
+	padding:0px;
+	margin: 0;
 }
 .navigation li:hover{
 	cursor:pointer;

@@ -21,7 +21,7 @@
 	<div class="container clearfix">
 
 		<div id="logo" class="grid_6">
-			<a href='http://2013.eswc-conferences.org/' title='Extended Sematic Web Conference 2013'><img src="img/logo_eswc13.jpg"></a>
+			<a href='http://hackyourphd.org/' title='Hack Your PhD'><img src="img/logo_phd.jpg"></a>
 			<a href='https://groups.google.com/forum/?fromgroups#!forum/scholrev-mailing-list' title='ScholRev Community'><img src="img/logo_scholrev.jpg"></a>
 			<a href='http://idiginfo.org' title='FSU Institute for Digital Information'><img src="img/logo_idiginfo.jpg"></a>
 			<a href='http://www.fsu.edu' title='Florida State University'><img src="img/logo_fsu.jpg"></a>
@@ -32,6 +32,7 @@
 			<ul class="navigation">
 				<li data-slide="1">Overview</li>
 				<li data-slide="2">Schedule</li>
+				<li data-slide="3">News</li>
 				<li data-slide="4">Ideas</li>
 			</ul>
 		</div>
@@ -56,7 +57,8 @@
         
         <div class="grid_6 omega">
             
-
+<p><strong>Updates</strong></p>
+<ul class="navigation" id="notlist"><li data-slide="3" style="color: #000;">Location announced </li></ul>
         </div>
 		
 		
@@ -71,12 +73,13 @@
 		
 		<div id="content2" class="grid_12">
         	<h1>Schedule (tentative)</h1>
-			<h2>Will be held at the <a href='http://2013.eswc-conferences.org/' title='EWSC Homepage'>Extended Semantic Web Conference</a>
+			<h2>Will be held during the <a href='http://2013.eswc-conferences.org/' title='EWSC Homepage'>Extended Semantic Web Conference</a>
 			<br />Monday, May 27, 2013, Montpellier, France</h2>
 		</div>
 		
 		<div class="grid_6">
 		<ul>
+		    <li>To be held at <a href="http://www.abes.fr/Connaitre-l-ABES/Venir-a-l-ABES" target="_blank">ABES</a></li>
 	        <li>8am - Coffee and breakfast arrive</li>
 	        <li>9am - Hackathon begins - Discuss logistics</li>
 	        <li>12:00pm - Lunch arrives</li>
@@ -104,7 +107,13 @@
 	<div class="container clearfix">
 		
 		<div id="content3" class="grid_12">
-		
+		<div id="content2" class="grid_12">
+        	<h1>Updates</h1>
+			<h2>Announcements and News</h2>
+		</div>
+		<div class="grid_6">
+		<p>May 8:<br />We have a location! The Hackathon will be held at <a href="http://www.abes.fr/Connaitre-l-ABES/Venir-a-l-ABES" target="_blank">ABES</a> - directions and map available.</p>
+		</div>
 
         </div>
 	

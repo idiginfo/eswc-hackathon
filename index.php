@@ -17,7 +17,7 @@
 
 <body>
 
-<div class="menu">	
+<div class="menu">
 	<div class="container clearfix">
 
 		<div id="logo" class="grid_6">
@@ -26,7 +26,7 @@
 			<a href='http://idiginfo.org' title='FSU Institute for Digital Information'><img src="img/logo_idiginfo.jpg"></a>
 			<a href='http://www.fsu.edu' title='Florida State University'><img src="img/logo_fsu.jpg"></a>
 		</div>
-		
+
 		<div id="nav" class="grid_6 omega">
 				<div id="big-button"><a href="http://wehack.it/hackathons/47-jailbreaking-the-pdf">Sign Up</a></div>
 			<ul class="navigation">
@@ -35,14 +35,14 @@
 				<li data-slide="4">Ideas</li>
 			</ul>
 		</div>
-	
+
 	</div>
 </div>
 
 
 <div class="slide" id="slide1" data-slide="1" data-stellar-background-ratio="0.5">
 	<div class="container clearfix">
-		
+
 		<div id="content" class="grid_12">
 			<h1>Jailbreaking the PDF: a Hackathon</h1>
 			<h2>Monday, May 27 in Montpellier, France</h2>
@@ -53,14 +53,14 @@
 		    <p>We want to change that.</p>
 		    <p>If you’re interested in hacking on PDFs and exploring ways to access scholarly data in modern ways, this hackathon is for you.</p>
         </div>
-        
+
         <div class="grid_6 omega">
-            
+
 
         </div>
-		
-		
-	
+
+
+
 	</div>
 </div>
 
@@ -68,13 +68,13 @@
 
 <div class="slide" id="slide2" data-slide="2" data-stellar-background-ratio="0.5">
 	<div class="container clearfix">
-		
+
 		<div id="content2" class="grid_12">
         	<h1>Schedule (tentative)</h1>
 			<h2>Will be held at the <a href='http://2013.eswc-conferences.org/' title='EWSC Homepage'>Extended Semantic Web Conference</a>
 			<br />Monday, May 27, 2013, Montpellier, France</h2>
 		</div>
-		
+
 		<div class="grid_6">
 		<ul>
 	        <li>8am - Coffee and breakfast arrive</li>
@@ -91,10 +91,10 @@
         </ul>
         <h4>Attending Remotely</h4>
         <p>We will have a Google Hangout feed going.  Stay tuned for the URL.</p>
-        
-        
+
+
 		</div>
-	
+
 	</div>
 </div>
 
@@ -102,12 +102,12 @@
 
 <div class="slide" id="slide3" data-slide="3" data-stellar-background-ratio="0.5">
 	<div class="container clearfix">
-		
+
 		<div id="content3" class="grid_12">
-		
+
 
         </div>
-	
+
 	</div>
 </div>
 
@@ -115,11 +115,11 @@
 
 <div class="slide" id="slide4" data-slide="4" data-stellar-background-ratio="0.5">
 	<div class="container clearfix">
-		
+
 		<div id="content" class="grid_12">
 			<h1>Tools and Ideas</h1>
 			<h2>Existing Tools to Hack On or Use (if you want)</h2>
-	    <div class="grid_6">		
+	    <div class="grid_6">
 
         <h4>xpdf</h4>
         <ul>
@@ -209,7 +209,7 @@
 
         <h4>Partridge</h4>
         <ul>
-            <li>Scientific literature retrieval and recommendation tool</li>
+            <li>Scientific literature retrieval and recommendation tool using PDFX.</li>
             <li><a href='https://github.com/ravenscroftj/partridge' target='_blank'>https://github.com/ravenscroftj/partridge</a></li>
         </ul>
 
@@ -233,10 +233,10 @@
 
 
         </div>
-        
-        
+
+
 		</div>
-	
+
 	</div>
 </div>
 
